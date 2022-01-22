@@ -1,3 +1,3 @@
 # aprendizaje
 
-Repopara organizar el aprendizaje de cursos
+Repo para organizar el aprendizaje de cursos
